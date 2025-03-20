@@ -1,6 +1,6 @@
 "use client"
 
-import { AlertTriangle, Bitcoin, Hexagon, Lock } from "lucide-react"
+import { Wallet, AlertTriangle, Bitcoin, Hexagon, Lock } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 export default function HeroCard() {
